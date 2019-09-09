@@ -9,7 +9,7 @@
    "liveSassCompile.settings.excludeList": [
       "**/node_modules/**",
       ".vscode/**",
-      "**/scss/**"
+      "**/scss/**/*.scss"
    ],
    "liveSassCompile.settings.generateMap": true,
    "liveSassCompile.settings.autoprefix": [
