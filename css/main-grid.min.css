@@ -1,0 +1,2 @@
+.content-wrapper{grid-area:content-wrapper;background-color:yellow;padding:50px 20px;display:-ms-grid;display:grid;-ms-grid-columns:18% 50px 1fr;grid-template-columns:18% 50px 1fr;-ms-grid-rows:1fr 1fr 1fr 1fr 1fr 1fr;grid-template-rows:1fr 1fr 1fr 1fr 1fr 1fr}
+/*# sourceMappingURL=main-grid.min.css.map */

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,IAAI,AAAC,CACD,OAAO,CAAE,IAAI,CACb,mBAAmB,CACf,0BACiB,CACxB",
+    "sources": [
+        "../scss/body-grid.scss"
+    ],
+    "names": [],
+    "file": "body-grid.min.css"
+}
